@@ -4,7 +4,7 @@ PCA with Mean Patch Searching Algorithm
 
 Steps:
 1. First Download Anaconda (Python) Package from the website https://www.continuum.io/downloads
-2. Install the Package bash Anaconda2-4.0.0-Linux-x86_64.sh 
+2. Install the Package bash Anaconda2-4.0.0-Linux-x86_64.sh  and Download the dataset from kaggle website.
 3. After installing , run the first code 
 	python PCA_.py
 4. It will take few minutes and Eigen Faces will be generated.
